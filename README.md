@@ -1,7 +1,7 @@
 # Machine-Learning-based-Sentiment-Analysis-of-Tweets
   
 This project  
-  1) Web-scrape and clean 8,100 tweets that tagged #PuertoRico over the period of hurricane Maria in 2017  
+  1) Statistical analysis of 8,100 tweets that tagged #PuertoRico over the period of hurricane Maria in 2017  
   2) Compare Lexicon- and RandomForest- based measurement of sentiment in the tweets  
   
 The JupyterNotebook file `python.ipynb` is a well-described file, so just follow the steps.  
