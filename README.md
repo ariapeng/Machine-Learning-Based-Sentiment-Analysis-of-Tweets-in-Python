@@ -1,6 +1,6 @@
 # Machine-Learning-based-Sentiment-Analysis-of-Tweets
   
-This project  
+In this project, I  
   1) Performed statistical analysis of 8,100 tweets that tagged #PuertoRico over the period of hurricane Maria in 2017  
   2) Compared Lexicon- and RandomForest- based measurement of sentiment in the tweets  
   
